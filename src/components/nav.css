@@ -1,0 +1,38 @@
+
+.container {
+  overflow: hidden;
+  background: #080;
+  color:#fff
+}
+
+.navBar {
+  width:80%;
+  margin:auto;
+}
+
+.logo {
+  font-size: 25px;
+  width:30%;
+  float:left;
+  display: block;
+  margin: 10px 0;
+  color:#fff;
+}
+
+ul {
+  width:70%;
+  float:left;
+  text-align: right;
+  padding:0;
+}
+
+ul a {
+  text-decoration: none;
+  color: #fff;
+  margin: 0 15px;
+}
+
+
+.active {
+  background: red;
+}
